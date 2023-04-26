@@ -1,0 +1,34 @@
+.cardWrapper{
+    width:50%;
+
+}
+.container{
+    display: flex;
+    flex-flow: wrap;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    
+}
+.filterWrapper{
+    display: flex;
+    margin: 0px 20%;
+}
+.searchBarWrapper{
+    margin: 10px 20%;
+}
+.searchClass{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    height: 48px;
+    width: 100%;
+    padding-right: 13px;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+.wrapper{
+    margin: 20px 0px;
+    background-color: lightgray;
+}

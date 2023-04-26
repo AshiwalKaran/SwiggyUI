@@ -1,0 +1,11 @@
+.searchClass{
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    height: 48px;
+    width: 100%;
+    padding-right: 13px;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
